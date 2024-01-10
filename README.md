@@ -21,4 +21,4 @@ I am a software engineer from the University of Medellin with solid programming 
 ---
 <h3>How to reach me 📫</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-David_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](www.linkedin.com/in/david-medina-orozco-480804232)
+[![Linkedin Badge](https://img.shields.io/badge/-David_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/david-medina-orozco-480804232/)
