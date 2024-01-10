@@ -7,7 +7,7 @@ I am a software engineer from the University of Medellin with solid programming 
    ° 💻 Ability in the analysis and design of databases, with great capacity for organization and structuring.</br></br>
    ° 🧠 Critical thinking for decision making, self-motivation and great adaptability to change.</br></br>
    ° 📝 Agile management and adaptability to SCRUM.</br></br>
-   ° 💪 Quick adaptation to new knowledge, driven by curiosity and self-motivation</br></br>
+   ° 💪 Quick adaptation to new knowledge, driven by curiosity.</br></br>
    
 ---
 <h3>Quick Stats ⚡</h3>
@@ -22,17 +22,3 @@ I am a software engineer from the University of Medellin with solid programming 
 <h3>How to reach me 📫</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-David_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](www.linkedin.com/in/david-medina-orozco-480804232)
-<!--
-**DavidMedinaO/DavidMedinaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
