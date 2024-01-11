@@ -3,7 +3,7 @@ I am a software engineer from the University of Medellin with solid programming 
 
 ---
 <h3>Other skills 🚀</h3>
-  <img width="400" height="190" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+  <!-- <img width="400" height="190" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right> -->
    ° 💻 Ability in the analysis and design of databases, with great capacity for organization and structuring.</br></br>
    ° 🧠 Critical thinking for decision making, self-motivation and great adaptability to change.</br></br>
    ° 📝 Agile management and adaptability to SCRUM.</br></br>
